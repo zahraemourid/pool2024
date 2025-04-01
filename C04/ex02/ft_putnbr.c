@@ -37,8 +37,3 @@ void	ft_putnbr(int nb)
 		ft_putchar((nb % 10) + '0');
 	}
 }
-/*int main()
-{
-	int c = -123;
-	ft_putnbr(c);
-} */

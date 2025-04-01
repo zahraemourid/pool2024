@@ -23,8 +23,3 @@ void	ft_putstr(char *str)
 		i++;
 	}
 }
-/* int main()
-{
-	char str[]="tst";
-	ft_putstr(str);
-} */
